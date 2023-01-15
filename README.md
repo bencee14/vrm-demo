@@ -1,5 +1,10 @@
 # vrm-demo-project
 
+## Login
+
+* username: Bence
+* password: supersecret
+
 ## Project setup
 ```
 npm install
